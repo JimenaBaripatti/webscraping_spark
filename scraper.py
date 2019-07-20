@@ -46,7 +46,7 @@ def process_item_block(soup):
 
 def create_soup(file_path):
     with open(file_path)as fp:
-        soup = BeautifulSoup(fp)
+        soup = BeautifulSoup(fp, 'html.parser')
     return soup
 
 
