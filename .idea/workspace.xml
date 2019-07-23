@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="647b539e-929d-4d8e-99b3-9ea7460a8930" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backup/foundation.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/foundation_data.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nb_scrape_concealer.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nb_scrape_concealerV2.ipynb" beforeDir="false" />
-    </list>
+    <list default="true" id="647b539e-929d-4d8e-99b3-9ea7460a8930" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -232,7 +226,14 @@
       <option name="project" value="LOCAL" />
       <updated>1563586922978</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="delete files">
+      <created>1563854981615</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1563854981616</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -263,7 +264,8 @@
     <MESSAGE value="create scraper" />
     <MESSAGE value="fix parser" />
     <MESSAGE value="add scroll" />
-    <option name="LAST_COMMIT_MESSAGE" value="add scroll" />
+    <MESSAGE value="delete files" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete files" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/scrapeweb.py" />
