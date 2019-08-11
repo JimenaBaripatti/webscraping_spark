@@ -49,3 +49,5 @@ print(f"fetching {PAGE} from the internet")
 soup = BeautifulSoup(page_source, 'html.parser')
 driver.close()
 driver.quit()
+
+print('Done!')
